@@ -1,1 +1,1 @@
-News app placeholder
+This is a placeholder for the News app testing :)
